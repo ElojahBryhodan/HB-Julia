@@ -9,7 +9,7 @@ function App() {
             <Link to="/" className="group inline-flex items-center gap-2 pl-2 sm:pl-3 pr-2">
               <span className="text-lg sm:text-xl">🎂</span>
               <div className="leading-tight">
-                <div className="font-semibold tracking-tight text-white/90">з Днем народження, Юля!</div>
+                <div className="font-semibold tracking-tight text-white/90">Юля!</div>
               </div>
             </Link>
             <nav className="flex items-center gap-1.5 sm:gap-2 text-xs sm:text-sm">
