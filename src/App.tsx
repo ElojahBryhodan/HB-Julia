@@ -10,7 +10,6 @@ function App() {
               <span className="text-lg sm:text-xl">🎂</span>
               <div className="leading-tight">
                 <div className="font-semibold tracking-tight text-white/90">з Днем народження, Юля!</div>
-                <div className="hidden sm:block text-[10px] text-white/60">Святковий сайт‑привітання</div>
               </div>
             </Link>
             <nav className="flex items-center gap-1.5 sm:gap-2 text-xs sm:text-sm">

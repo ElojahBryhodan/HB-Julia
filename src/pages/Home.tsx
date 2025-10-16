@@ -91,8 +91,8 @@ export default function Home() {
         <div className="rounded-3xl p-6 bg-white/80 dark:bg-white/5 backdrop-blur border border-white/40 dark:border-white/10 shadow">
           <h2 className="text-xl font-semibold mb-2 font-display">Теплі побажання</h2>
           <p className="text-sm text-zinc-700 dark:text-zinc-200">
-            Нехай кожен день приносить натхнення, радість і приємні сюрпризи.
-            Бажаю нових звершень, щирих усмішок і багато-багато любові!
+            Бажаю, щоб в цей день, ти залишалась, такою доброю, як ти є зараз, хай Бог благословить твоє життя,
+            і рано чи пізно дасть допоможе осягнути його велич в твоєму житті!
           </p>
         </div>
       </div>
