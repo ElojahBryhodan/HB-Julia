@@ -21,7 +21,7 @@ const router = createBrowserRouter([
       { path: '*', element: <NotFound /> },
     ],
   },
-])
+], { basename: '/HB-Julia' })
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
