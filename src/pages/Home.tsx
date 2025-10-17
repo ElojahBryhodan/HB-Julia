@@ -79,14 +79,6 @@ export default function Home() {
             <div className="bg-white/70 dark:bg-white/10 rounded-2xl p-3 border border-white/40 dark:border-white/10 shadow">✨</div>
           </div>
 
-          <button
-            onClick={handleShare}
-            className="mt-7 w-full inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-base font-semibold text-white bg-gradient-to-r from-zinc-900 to-zinc-700 dark:from-white dark:to-white dark:text-zinc-900 shadow-[0_10px_30px_-10px_rgba(24,24,27,0.5)] active:translate-y-[1px] transition-transform focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-300 disabled:opacity-60"
-          >
-            <span>Поділитися привітанням</span>
-            <span aria-hidden>🔗</span>
-          </button>
-
           {copyStatusMessage && (
             <div className="mt-3 text-sm text-emerald-700 dark:text-emerald-300">
               {copyStatusMessage}
